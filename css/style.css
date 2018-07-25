@@ -616,13 +616,16 @@ form label {
     color: rgba(0, 0, 0, .79);
 }
 
-a.blog-nav {
+.blog a{
     color: #333;
+    text-decoration: underline;
 }
 
-.blog a {
+a.blog-nav {
     color: #333;
+    text-decoration: none;
 }
+
 
 .blog h3 {
     margin-top: 50px;
