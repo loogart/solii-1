@@ -46,7 +46,7 @@
                         <p>Just kidding—the most important part about ensuring a clean finish is by staying consistent in your direction—whether it’s horizontal or vertical, stick with it to avoid too many streaks. If you have a large picture window, start at the top left (if you’re right handed, left handers start at the top right) and work your way down in an S shape. Don’t forget to wipe your squeegee every time you swipe. </p>
                         <p>Finally, wipe the edges with a chamois, which leaves no streaks. </p>
 
-                        <img src="./img/blog-clean-window-2.jpg" width="640">
+                        <img src="./img/blog-clean-window-2.jpg">
 
                         <p>Feel like cleaning your windows now? </p>
                         <p>

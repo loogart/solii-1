@@ -32,7 +32,7 @@
                         <div class="card-deck mb-3">
 
                             <div class="card">
-                                <a href="./signs-you-need-to-upgrade-your-front-door"><img class="card-img-top" src="./img/blog-front-door-1.jpg" alt="Card image cap"></a>
+                                <a href="./signs-you-need-to-upgrade-your-front-door"><img class="card-img-top" src="./img/blog-front-door-1.jpg" alt="House with nice front door"></a>
                                 <div class="card-body">
                                     <a class="card-title" href="./signs-you-need-to-upgrade-your-front-door">
                                         <h5>5 Signs You Need to Upgrade Your Front Door</h5>
@@ -44,7 +44,7 @@
                                 </div>
                             </div>
                             <div class="card">
-                                <a href="./window-cleaning-tips"><img class="card-img-top" src="./img/blog-clean-window-1.jpg" alt="Card image cap"></a>
+                                <a href="./window-cleaning-tips"><img class="card-img-top" src="./img/blog-clean-window-1.jpg" alt="Clean Window Blog Post Image"></a>
                                 <div class="card-body">
                                     <a class="card-title" href="./window-cleaning-tips">
                                         <h5>Need to Know Cleaning Tips for Your Windows</h5>
@@ -61,7 +61,7 @@
                         <div class="card-deck mb-3">
 
                             <div class="card">
-                                <a href="./heritage-buildings-in-ottawa"><img class="card-img-top" src="./img/featurette-2.jpg" alt="Card image cap"></a>
+                                <a href="./heritage-buildings-in-ottawa"><img class="card-img-top" src="./img/blog-heritage-1.png" alt="Heritage Building Canada"></a>
                                 <div class="card-body">
                                     <a class="card-title" href="./heritage-buildings-in-ottawa">
                                         <h5>4 Heritage Buildings in Ottawa That Will make You Swoon</h5>
@@ -74,7 +74,7 @@
                             </div>
 
                             <div class="card">
-                                <a href="./epic-front-doors"><img class="card-img-top" src="./img/featurette-2.jpg" alt="Card image cap"></a>
+                                <a href="./epic-front-doors"><img class="card-img-top" src="./img/blog-doors-1.png" alt="Card image cap" style="object-fit:cover;height:200px"></a>
                                 <div class="card-body">
                                     <a class="card-title" href="./epic-front-doors">
                                         <h5>5 Epic Front Doors That Will Give You Major Home Envy</h5>
@@ -86,7 +86,7 @@
                                 </div>
                             </div>
                             <div class="card">
-                                <a href="./selecting-custom-luxury-windows"><img class="card-img-top" src="./img/blog1.jpg" alt="Card image cap"></a>
+                                <a href="./selecting-custom-luxury-windows"><img class="card-img-top" src="./img/blog1.jpg" alt="Luxury home interior"></a>
                                 <div class="card-body">
                                     <a class="card-title" href="./selecting-custom-luxury-windows">
                                         <h5>5 Things to Consider When Selecting Custom Luxury Windows</h5>
