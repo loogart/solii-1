@@ -17,7 +17,7 @@
                     <div class="col-12 col-sm-9 mx-auto">
                         <a href="./blog" class="blog-nav"><i class="fas fa-th"></i> All Posts</a>
                         <hr class="mb-4 mb-sm-5">
-                        <p class="h6 text-muted">June 28, 2018</p>
+                        <!-- <p class="h6 text-muted">June 28, 2018</p> -->
                         <h1 class="my-3">5 Epic Front Doors That Will Give You Major Home Envy</h1>
                     </div>
                 </div>
