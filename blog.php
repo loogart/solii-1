@@ -62,7 +62,7 @@
                         <div class="card-deck mb-3">
 
                             <div class="card">
-                                <a href="./heritage-buildings-in-ottawa"><img class="card-img-top" src="./img/blog-heritage-1.png" alt="Heritage Building Canada"></a>
+                                <a href="./heritage-buildings-in-ottawa"><img class="card-img-top" src="./img/blog-heritage-1.jpg" alt="Heritage Building Canada"></a>
                                 <div class="card-body">
                                     <a class="card-title" href="./heritage-buildings-in-ottawa">
                                         <h5>4 Heritage Buildings in Ottawa That Will make You Swoon</h5>
@@ -75,7 +75,7 @@
                             </div>
 
                             <div class="card">
-                                <a href="./epic-front-doors"><img class="card-img-top" src="./img/blog-doors-1.png" alt="Card image cap" style="object-fit:cover;height:200px"></a>
+                                <a href="./epic-front-doors"><img class="card-img-top" src="./img/blog-doors-1.jpg" alt="Card image cap" style="object-fit:cover;height:200px"></a>
                                 <div class="card-body">
                                     <a class="card-title" href="./epic-front-doors">
                                         <h5>5 Epic Front Doors That Will Give You Major Home Envy</h5>

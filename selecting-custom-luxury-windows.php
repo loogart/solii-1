@@ -44,7 +44,7 @@
                         <h3>1. Your Lifestyle</h3>
 
                         <!-- IMAGE -->
-                        <img src="./img/gallery/tilt-turn_1.png">
+                        <img src="./img/gallery/tilt-turn_1.jpg">
 
                         <p>Don’t be afraid to be selfish - this is a great opportunity to customize and add a luxurious touch to your home. Are there particular views you’d like to highlight? Do you need integrated blinds for easy operation? What kind of climate are you living in? Are extreme temperatures a factor in your daily life?</p>
                         <h3>2. Your Aesthetic</h3>

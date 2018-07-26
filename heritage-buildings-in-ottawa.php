@@ -24,7 +24,7 @@
             </div>
         </div>
         <div class="overflow-hidden">
-            <img class="blog-jumbotron" src="./img/blog-heritage-1.png">
+            <img class="blog-jumbotron" src="./img/blog-heritage-1.jpg">
         </div>
         <div class="content-area blog">
             <div class="container py-3 p-md-5">
@@ -40,22 +40,22 @@
                         <h3>Sir John A Macdonald Building</h3>
                         <h5>144 Wellington Street</h5>
                         <p>Originally built in 1929 by The Bank of Montreal, restored in 2012 and now hosts West Block’s former Confederation Room, a venue for significant parliamentary events. </p>
-                        <img src="./img/blog-heritage-1.png">
+                        <img src="./img/blog-heritage-1.jpg">
                         <figcaption class="figure-caption"><a href="https://www.canadianarchitect.com/features/bank-on-it/">Photo courtesy of Canadian Architect</a></figcaption>
                         
                         <h3>Victoria Building</h3>
                         <p>Built in 1927 - 1928, this was one of the first high-rises in Ottawa and now hosts government offices. </p>
-                        <img src="./img/blog-heritage-2.png">
+                        <img src="./img/blog-heritage-2.jpg">
                         <figcaption class="figure-caption"><a href="https://www.tpsgc-pwgsc.gc.ca/citeparlementaire-parliamentaryprecinct/decouvrez-discover/edifice-buildings-eng.html?wbdisable=true">Photo courtesy of Public Works Canada</a></figcaption>
                         
                         <h3>Aberdeen Pavilion</h3>
                         <p>Originally built in 1898 for the Central Canada Exhibition Association, it is now a venue for all types of large-scale events and community gatherings. </p>
-                        <img src="./img/blog-heritage-3.png">
+                        <img src="./img/blog-heritage-3.jpg">
                         <figcaption class="figure-caption"><a href="http://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=447">Photo courtesy of Parks Canada</a></figcaption>
                         
                         <h3>Laurentian Leadership Centre / J.R. Booth Mansion</h3>
                         <p>Built in 1909 as the residence of J.R. Booth, a wealthy lumber baron in Ottawa, this residence is now home to the Laurentian Leadership Centre of Trinity Western University.</p>
-                        <img src="./img/blog-heritage-4.png">
+                        <img src="./img/blog-heritage-4.jpg">
                         <figcaption class="figure-caption"><a href="https://ottawa.ca/cgi-bin/doors/2017.pl?id=74&lang=en ">Photo courtesy of City of Ottawa</a></figcaption>
                         <br>
                         <p>Feeling inspired? <a href="https://solii.ca/contact">Contact us</a> or visit our showroom to see how we can make your home stand out.</p>                        
