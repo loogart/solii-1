@@ -1,5 +1,4 @@
 <!doctype html> 
-<!-- elvis lives here -->
 <html lang="en">
 
 <head>
