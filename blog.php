@@ -40,7 +40,7 @@
                                     <a class="card-text" href="./signs-you-need-to-upgrade-your-front-door">
                                         <p>Although it’s the focal point of every entrance and exit we make in our home, front door maintenance is often overlooked. </p>
                                     </a>
-                                    <p class="card-text"><small class="text-muted">July 22, 2018</small></p>
+                                    <!-- <p class="card-text"><small class="text-muted">July 22, 2018</small></p> -->
                                 </div>
                             </div>
                             <div class="card">
@@ -52,7 +52,7 @@
                                     <a class="card-text" href="./window-cleaning-tips">
                                         <p>There’s nothing worse than looking out your window and having a gorgeous view eclipsed by spots, streaks, dust, and fingerprints. </p>
                                     </a>
-                                    <p class="card-text"><small class="text-muted">July 10, 2018</small></p>
+                                    <!-- <p class="card-text"><small class="text-muted">July 10, 2018</small></p> -->
                                 </div>
                             </div>
 
@@ -69,7 +69,7 @@
                                     <a class="card-text" href="./heritage-buildings-in-ottawa">
                                         <p>Move over Parliament Hill, Ottawa has plenty of architecturally beautiful buildings that deserve our attention. </p>
                                     </a>
-                                    <p class="card-text"><small class="text-muted">July 4, 2018</small></p>
+                                    <!-- <p class="card-text"><small class="text-muted">July 4, 2018</small></p> -->
                                 </div>
                             </div>
 
@@ -82,7 +82,7 @@
                                     <a class="card-text" href="./epic-front-doors">
                                         <p>First impressions are everything, right? The same counts with your home.</p>
                                     </a>
-                                    <p class="card-text"><small class="text-muted">June 28, 2018</small></p>
+                                    <!-- <p class="card-text"><small class="text-muted">June 28, 2018</small></p> -->
                                 </div>
                             </div>
                             <div class="card">
@@ -94,7 +94,7 @@
                                     <a class="card-text" href="./selecting-custom-luxury-windows">
                                         <p>Whether you’re building a custom home from scratch, or looking to replace the windows in your current home, windows are a big investment.</p>
                                     </a>
-                                    <p class="card-text"><small class="text-muted">June 26, 2018</small></p>
+                                    <!-- <p class="card-text"><small class="text-muted">June 26, 2018</small></p> -->
                                 </div>
                             </div>
 
