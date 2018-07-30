@@ -53,7 +53,7 @@
                         <figcaption class="figure-caption"><a href="https://www.dwell.com/article/photo-of-the-week-a-door-and-a-dog-to-welcome-you-home-7f69df24/6133542305962635264">Photo courtesy of Dwell</a></figcaption>
                         
                         <h3>Natural and Minimal</h3>
-                        <img src="./img/blog-doors-4.jpg">
+                        <img src="./img/blog-doors-5.png">
                         <figcaption class="figure-caption"><a href="http://homemydesign.com/2016/25-modern-front-door-with-wood-accents/modern-black-front-doors/ ">Photo courtesy of Home My Design</a></figcaption>
                         <br>                                                                                                    
                         <p>Feeling inspired? <a href="https://solii.ca/contact">Contact us</a> to chat custom front doors today! </p>                                                                                                                       
@@ -63,6 +63,7 @@
                     </div>
                 </div>
             </div>
+        </div>
     </main>
 
     <?php include './php/footer.php';?>
