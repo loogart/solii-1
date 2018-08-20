@@ -30,7 +30,18 @@
                     <div class="col-12 mx-auto">
 
                         <div class="card-deck mb-3">
-
+                            <div class="card">
+                                <a href="./ultimate-guide-to-choosing-a-new-door"><img class="card-img-top" src="./img/blog-luxury-door-1.jpg" alt="House with nice front door"></a>
+                                <div class="card-body">
+                                    <a class="card-title" href="./ultimate-guide-to-choosing-a-new-door">
+                                        <h5>Your Ultimate Guide to Choosing a New Door</h5>
+                                    </a>
+                                    <a class="card-text" href="./ultimate-guide-to-choosing-a-new-door">
+                                        <p>The front door is the starting point of the journey through your home—a focal point not to be overlooked. </p>
+                                    </a>
+                                    <!-- <p class="card-text"><small class="text-muted">July 22, 2018</small></p> -->
+                                </div>
+                            </div>
                             <div class="card">
                                 <a href="./signs-you-need-to-upgrade-your-front-door"><img class="card-img-top" src="./img/blog-front-door-1.jpg" alt="House with nice front door"></a>
                                 <div class="card-body">
