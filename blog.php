@@ -28,6 +28,33 @@
                 </div>
                 <div class="row">
                     <div class="col-12 mx-auto">
+                        
+                        <div class="card-deck mb-3">
+                            <div class="card">
+                                <a href="./design-luxury-home-with-natural-light"><img class="card-img-top" src="./img/blog-natural-light-home.jpg" alt="Living room with natural light"></a>
+                                <div class="card-body">
+                                    <a class="card-title" href="./ultimate-guide-to-choosing-a-new-door">
+                                        <h5>Why Design a Luxury Home With Natural Light in Mind</h5>
+                                    </a>
+                                    <a class="card-text" href="./ultimate-guide-to-choosing-a-new-door">
+                                        <p>There’s a reason why flowers always grow to face the sun.</p>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <a href="./front-door-smart-lock-benefits"><img class="card-img-top" src="./img/blog-smart-locks.jpg" alt="Door with Smart Locks"></a>
+                                <div class="card-body">
+                                    <a class="card-title" href="./signs-you-need-to-upgrade-your-front-door">
+                                        <h5>The Benefits of a Smart Lock for Your Luxury Home</h5>
+                                    </a>
+                                    <a class="card-text" href="./signs-you-need-to-upgrade-your-front-door">
+                                        <p>In the 16th century, moats and drawbridges were humankind’s response to security threats to the home.</p>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+                        
 
                         <div class="card-deck mb-3">
                             <div class="card">
