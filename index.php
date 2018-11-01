@@ -14,10 +14,13 @@
 </head>
 
 <body>
-
+   <div class="p-2 bg-light text-center" style="background-image:url('https://solii.ca/img/gallery/fixed_2.jpg');background-size:cover;">
+       <strong>10% OFF WINDOW ORDERS.</strong> EXPIRES NOVEMBER 30, 2018
+   </div>
     <?php include './php/navbar.php';?>
 
     <main>
+
         <!-- jumbotron area-->
         <section class="intro">
             <div class="p-3 p-md-5 text-center bg-light overflow-hidden position-relative d-flex">
