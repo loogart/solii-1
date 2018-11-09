@@ -36,6 +36,7 @@
                         
                         <p>Before diving into a home renovation, make sure you take time for these quick steps: </p>
                         
+                        <h3>Know and Plan Your Budget</h3>
                         <p>When you know how much you’re willing to spend from the beginning, you are eliminating potential disappointments down the road. From the very beginning when determining any structural changes, to decisions about finishes and paint choices, knowing your budget helps prioritize “nice to have” and “need to have” items. If you’re struggling with choices, your contractor will be able to provide you with great insight as you plan your renovation - we’d love to hear from you (link to contact page) if you’re thinking about renovating!</p>
                         
                         <h3>Factor in a contingency</h3>
